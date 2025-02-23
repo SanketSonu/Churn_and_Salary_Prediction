@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_cus_churn/
 
 # Spyder project settings
 .spyderproject
