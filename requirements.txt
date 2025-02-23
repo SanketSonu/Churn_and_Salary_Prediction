@@ -2,9 +2,9 @@ tensorflow==2.16.1
 keras
 pandas 
 numpy 
-pip install --upgrade setuptools
-pip install --upgrade pip
-pip install --upgrade scikit-learn
+setuptools
+
+scikit-learn
 tensorboard
 matplotlib
 streamlit
