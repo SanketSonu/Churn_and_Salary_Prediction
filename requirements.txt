@@ -3,8 +3,7 @@ keras
 pandas 
 numpy 
 setuptools
-
-scikit-learn
+scikit-learn==1.6.1
 tensorboard
 matplotlib
 streamlit
